@@ -9,11 +9,11 @@
 // Replaces the old BGZF.* files to avoid clashing with other toolkits
 // ***************************************************************************
 
-#include "api/BamAux.h"
-#include "api/BamConstants.h"
-#include "api/internal/io/BamDeviceFactory_p.h"
-#include "api/internal/io/BgzfStream_p.h"
-#include "api/internal/utils/BamException_p.h"
+#include "../../BamAux.h"
+#include "../../BamConstants.h"
+#include "../../internal/io/BamDeviceFactory_p.h"
+#include "../../internal/io/BgzfStream_p.h"
+#include "../../internal/utils/BamException_p.h"
 using namespace BamTools;
 using namespace BamTools::Internal;
 

@@ -10,8 +10,8 @@
 #ifndef SAM_SEQUENCE_DICTIONARY_H
 #define SAM_SEQUENCE_DICTIONARY_H
 
-#include "api/api_global.h"
-#include "api/SamSequence.h"
+#include "api_global.h"
+#include "SamSequence.h"
 #include <map>
 #include <string>
 #include <vector>

@@ -10,8 +10,8 @@
 #ifndef BAMMULTIREADER_H
 #define BAMMULTIREADER_H
 
-#include "api/api_global.h"
-#include "api/BamReader.h"
+#include "api_global.h"
+#include "BamReader.h"
 #include <map>
 #include <sstream>
 #include <string>

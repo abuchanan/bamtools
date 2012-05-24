@@ -7,9 +7,9 @@
 // Provides basic TCP I/O interface
 // ***************************************************************************
 
-#include "api/internal/io/ByteArray_p.h"
-#include "api/internal/io/TcpSocket_p.h"
-#include "api/internal/io/TcpSocketEngine_p.h"
+#include "../../internal/io/ByteArray_p.h"
+#include "../../internal/io/TcpSocket_p.h"
+#include "../../internal/io/TcpSocketEngine_p.h"
 using namespace BamTools;
 using namespace BamTools::Internal;
 

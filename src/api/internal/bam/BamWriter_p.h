@@ -20,8 +20,8 @@
 //
 // We mean it.
 
-#include "api/BamAux.h"
-#include "api/internal/io/BgzfStream_p.h"
+#include "../../BamAux.h"
+#include "../../internal/io/BgzfStream_p.h"
 #include <string>
 #include <vector>
 

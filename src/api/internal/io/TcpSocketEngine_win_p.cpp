@@ -7,8 +7,8 @@
 // Provides low-level implementation of TCP I/O for all Windows systems
 // ***************************************************************************
 
-#include "api/internal/io/TcpSocketEngine_p.h"
-#include "api/internal/io/NetWin_p.h"
+#include "../../internal/io/TcpSocketEngine_p.h"
+#include "../../internal/io/NetWin_p.h"
 using namespace BamTools;
 using namespace BamTools::Internal;
 

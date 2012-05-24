@@ -7,8 +7,8 @@
 // Provides read access to BAM files.
 // ***************************************************************************
 
-#include "api/BamReader.h"
-#include "api/internal/bam/BamReader_p.h"
+#include "BamReader.h"
+#include "internal/bam/BamReader_p.h"
 using namespace BamTools;
 using namespace BamTools::Internal;
 

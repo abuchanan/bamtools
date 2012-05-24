@@ -20,9 +20,9 @@
 //
 // We mean it.
 
-#include "api/BamAux.h"
-#include "api/BamIndex.h"
-#include "api/IBamIODevice.h"
+#include "../../BamAux.h"
+#include "../../BamIndex.h"
+#include "../../IBamIODevice.h"
 #include <map>
 #include <string>
 #include <vector>

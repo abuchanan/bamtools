@@ -7,7 +7,7 @@
 // Provides a dynamic, variable-length byte buffer
 // ***************************************************************************
 
-#include "api/internal/io/ByteArray_p.h"
+#include "../../internal/io/ByteArray_p.h"
 using namespace BamTools;
 using namespace BamTools::Internal;
 

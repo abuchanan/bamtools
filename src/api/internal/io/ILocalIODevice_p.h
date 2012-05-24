@@ -20,7 +20,7 @@
 //
 // We mean it.
 
-#include "api/IBamIODevice.h"
+#include "../../IBamIODevice.h"
 
 namespace BamTools {
 namespace Internal {

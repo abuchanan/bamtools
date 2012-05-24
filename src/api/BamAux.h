@@ -10,7 +10,7 @@
 #ifndef BAMAUX_H
 #define BAMAUX_H
 
-#include "api/api_global.h"
+#include "api_global.h"
 #include <cstring>
 #include <fstream> 
 #include <iostream>

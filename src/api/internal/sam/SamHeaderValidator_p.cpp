@@ -7,10 +7,10 @@
 // Provides functionality for validating SamHeader data
 // ***************************************************************************
 
-#include "api/SamConstants.h"
-#include "api/SamHeader.h"
-#include "api/internal/sam/SamHeaderValidator_p.h"
-#include "api/internal/sam/SamHeaderVersion_p.h"
+#include "../../SamConstants.h"
+#include "../../SamHeader.h"
+#include "../../internal/sam/SamHeaderValidator_p.h"
+#include "../../internal/sam/SamHeaderVersion_p.h"
 using namespace BamTools;
 using namespace BamTools::Internal;
 

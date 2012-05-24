@@ -11,7 +11,7 @@
 // implementation note: basically a 'smart' wrapper around 1..* ByteArrays
 // ***************************************************************************
 
-#include "api/internal/io/RollingBuffer_p.h"
+#include "../../internal/io/RollingBuffer_p.h"
 using namespace BamTools;
 using namespace BamTools::Internal;
 

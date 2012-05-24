@@ -20,7 +20,7 @@
 //
 // We mean it.
 
-#include "api/SamConstants.h"
+#include "../../SamConstants.h"
 #include <sstream>
 #include <string>
 

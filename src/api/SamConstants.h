@@ -10,7 +10,7 @@
 #ifndef SAM_CONSTANTS_H
 #define SAM_CONSTANTS_H
 
-#include "api/api_global.h"
+#include "api_global.h"
 #include <string>
 
 namespace BamTools {

@@ -10,10 +10,10 @@
 #ifndef BAMREADER_H
 #define BAMREADER_H
 
-#include "api/api_global.h"
-#include "api/BamAlignment.h"
-#include "api/BamIndex.h"
-#include "api/SamHeader.h"
+#include "api_global.h"
+#include "BamAlignment.h"
+#include "BamIndex.h"
+#include "SamHeader.h"
 #include <string>
 
 namespace BamTools {

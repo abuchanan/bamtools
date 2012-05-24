@@ -20,8 +20,8 @@
 //
 // We mean it.
 
-#include "api/internal/io/HostAddress_p.h"
-#include "api/internal/io/TcpSocket_p.h"
+#include "../../internal/io/HostAddress_p.h"
+#include "../../internal/io/TcpSocket_p.h"
 
 #ifdef _WIN32
 #  include "api/internal/io/NetWin_p.h"

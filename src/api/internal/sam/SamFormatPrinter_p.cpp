@@ -7,9 +7,9 @@
 // Provides functionality for printing formatted SAM header to string
 // ***************************************************************************
 
-#include "api/SamConstants.h"
-#include "api/SamHeader.h"
-#include "api/internal/sam/SamFormatPrinter_p.h"
+#include "../../SamConstants.h"
+#include "../../SamHeader.h"
+#include "../../internal/sam/SamFormatPrinter_p.h"
 using namespace BamTools;
 using namespace BamTools::Internal;
 

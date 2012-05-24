@@ -10,7 +10,7 @@
 #ifndef SAM_READGROUP_H
 #define SAM_READGROUP_H
 
-#include "api/api_global.h"
+#include "api_global.h"
 #include <string>
 
 namespace BamTools {

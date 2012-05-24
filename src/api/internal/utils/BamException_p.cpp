@@ -7,7 +7,7 @@
 // Provides a basic exception class for BamTools internals
 // ***************************************************************************
 
-#include "api/internal/utils/BamException_p.h"
+#include "../../internal/utils/BamException_p.h"
 using namespace BamTools;
 using namespace BamTools::Internal;
 using namespace std;

@@ -7,7 +7,7 @@
 // Provides shared behavior for files & pipes
 // ***************************************************************************
 
-#include "api/internal/io/ILocalIODevice_p.h"
+#include "../../internal/io/ILocalIODevice_p.h"
 using namespace BamTools;
 using namespace BamTools::Internal;
 

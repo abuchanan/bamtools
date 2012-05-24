@@ -7,12 +7,12 @@
 // Provides index operations for the BamTools index format (".bti")
 // ***************************************************************************
 
-#include "api/BamAlignment.h"
-#include "api/internal/bam/BamReader_p.h"
-#include "api/internal/index/BamToolsIndex_p.h"
-#include "api/internal/io/BamDeviceFactory_p.h"
-#include "api/internal/io/BgzfStream_p.h"
-#include "api/internal/utils/BamException_p.h"
+#include "../../BamAlignment.h"
+#include "../../internal/bam/BamReader_p.h"
+#include "../../internal/index/BamToolsIndex_p.h"
+#include "../../internal/io/BamDeviceFactory_p.h"
+#include "../../internal/io/BgzfStream_p.h"
+#include "../../internal/utils/BamException_p.h"
 using namespace BamTools;
 using namespace BamTools::Internal;
 

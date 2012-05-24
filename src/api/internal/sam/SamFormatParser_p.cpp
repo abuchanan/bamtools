@@ -7,10 +7,10 @@
 // Provides functionality for parsing SAM header text into SamHeader object
 // ***************************************************************************
 
-#include "api/SamConstants.h"
-#include "api/SamHeader.h"
-#include "api/internal/sam/SamFormatParser_p.h"
-#include "api/internal/utils/BamException_p.h"
+#include "../../SamConstants.h"
+#include "../../SamHeader.h"
+#include "../../internal/sam/SamFormatParser_p.h"
+#include "../../internal/utils/BamException_p.h"
 using namespace BamTools;
 using namespace BamTools::Internal;
 

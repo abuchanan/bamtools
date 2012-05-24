@@ -10,8 +10,8 @@
 #ifndef SAM_READGROUP_DICTIONARY_H
 #define SAM_READGROUP_DICTIONARY_H
 
-#include "api/api_global.h"
-#include "api/SamReadGroup.h"
+#include "api_global.h"
+#include "SamReadGroup.h"
 #include <map>
 #include <string>
 #include <vector>

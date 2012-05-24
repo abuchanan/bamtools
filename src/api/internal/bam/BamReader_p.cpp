@@ -7,16 +7,16 @@
 // Provides the basic functionality for reading BAM files
 // ***************************************************************************
 
-#include "api/BamConstants.h"
-#include "api/BamReader.h"
-#include "api/IBamIODevice.h"
-#include "api/internal/bam/BamHeader_p.h"
-#include "api/internal/bam/BamRandomAccessController_p.h"
-#include "api/internal/bam/BamReader_p.h"
-#include "api/internal/index/BamStandardIndex_p.h"
-#include "api/internal/index/BamToolsIndex_p.h"
-#include "api/internal/io/BamDeviceFactory_p.h"
-#include "api/internal/utils/BamException_p.h"
+#include "../../BamConstants.h"
+#include "../../BamReader.h"
+#include "../../IBamIODevice.h"
+#include "../../internal/bam/BamHeader_p.h"
+#include "../../internal/bam/BamRandomAccessController_p.h"
+#include "../../internal/bam/BamReader_p.h"
+#include "../../internal/index/BamStandardIndex_p.h"
+#include "../../internal/index/BamToolsIndex_p.h"
+#include "../../internal/io/BamDeviceFactory_p.h"
+#include "../../internal/utils/BamException_p.h"
 using namespace BamTools;
 using namespace BamTools::Internal;
 

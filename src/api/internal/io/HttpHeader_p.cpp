@@ -8,7 +8,7 @@
 // with specialized request & response header types
 // ***************************************************************************
 
-#include "api/internal/io/HttpHeader_p.h"
+#include "../../internal/io/HttpHeader_p.h"
 using namespace BamTools;
 using namespace BamTools::Internal;
 

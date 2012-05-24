@@ -7,11 +7,11 @@
 // Functionality for simultaneously reading multiple BAM files
 // *************************************************************************
 
-#include "api/BamAlignment.h"
-#include "api/BamMultiReader.h"
-#include "api/SamConstants.h"
-#include "api/algorithms/Sort.h"
-#include "api/internal/bam/BamMultiReader_p.h"
+#include "../../BamAlignment.h"
+#include "../../BamMultiReader.h"
+#include "../../SamConstants.h"
+#include "../../algorithms/Sort.h"
+#include "../../internal/bam/BamMultiReader_p.h"
 using namespace BamTools;
 using namespace BamTools::Internal;
 

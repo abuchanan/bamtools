@@ -7,7 +7,7 @@
 // Provides a generic IP address container
 // ***************************************************************************
 
-#include "api/internal/io/HostAddress_p.h"
+#include "../../internal/io/HostAddress_p.h"
 using namespace BamTools;
 using namespace BamTools::Internal;
 

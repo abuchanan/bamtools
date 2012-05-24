@@ -7,7 +7,7 @@
 // Provides direct read/write access to the SAM read group data fields.
 // ***************************************************************************
 
-#include "api/SamReadGroup.h"
+#include "SamReadGroup.h"
 using namespace BamTools;
 using namespace std;
 

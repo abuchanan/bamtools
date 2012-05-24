@@ -21,9 +21,9 @@
 //
 // We mean it.
 
-#include "api/BamAlignment.h"
-#include "api/BamReader.h"
-#include "api/algorithms/Sort.h"
+#include "../../BamAlignment.h"
+#include "../../BamReader.h"
+#include "../../algorithms/Sort.h"
 #include <deque>
 #include <functional>
 #include <set>

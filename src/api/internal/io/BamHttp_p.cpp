@@ -7,10 +7,10 @@
 // Provides reading/writing of BAM files on HTTP server
 // ***************************************************************************
 
-#include "api/BamAux.h"
-#include "api/internal/io/BamHttp_p.h"
-#include "api/internal/io/HttpHeader_p.h"
-#include "api/internal/io/TcpSocket_p.h"
+#include "../../BamAux.h"
+#include "../../internal/io/BamHttp_p.h"
+#include "../../internal/io/HttpHeader_p.h"
+#include "../../internal/io/TcpSocket_p.h"
 using namespace BamTools;
 using namespace BamTools::Internal;
 

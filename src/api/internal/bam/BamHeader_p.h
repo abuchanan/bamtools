@@ -20,7 +20,7 @@
 //
 // We mean it.
 
-#include "api/SamHeader.h"
+#include "../../SamHeader.h"
 #include <string>
 
 namespace BamTools {

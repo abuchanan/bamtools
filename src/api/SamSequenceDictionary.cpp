@@ -7,7 +7,7 @@
 // Provides methods for operating on a collection of SamSequence entries.
 // *************************************************************************
 
-#include "api/SamSequenceDictionary.h"
+#include "SamSequenceDictionary.h"
 using namespace BamTools;
 
 #include <iostream>

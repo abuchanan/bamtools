@@ -7,7 +7,7 @@
 // Provides DNS lookup functionality for hostname & its discovered addresses
 // ***************************************************************************
 
-#include "api/internal/io/HostInfo_p.h"
+#include "../../internal/io/HostInfo_p.h"
 using namespace BamTools;
 using namespace BamTools::Internal;
 

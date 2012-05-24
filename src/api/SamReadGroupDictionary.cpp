@@ -7,7 +7,7 @@
 // Provides methods for operating on a collection of SamReadGroup entries.
 // ***************************************************************************
 
-#include "api/SamReadGroupDictionary.h"
+#include "SamReadGroupDictionary.h"
 using namespace BamTools;
 
 #include <iostream>

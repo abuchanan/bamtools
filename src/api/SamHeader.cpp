@@ -7,12 +7,12 @@
 // Provides direct read/write access to the SAM header data fields.
 // ***************************************************************************
 
-#include "api/SamConstants.h"
-#include "api/SamHeader.h"
-#include "api/internal/utils/BamException_p.h"
-#include "api/internal/sam/SamFormatParser_p.h"
-#include "api/internal/sam/SamFormatPrinter_p.h"
-#include "api/internal/sam/SamHeaderValidator_p.h"
+#include "SamConstants.h"
+#include "SamHeader.h"
+#include "internal/utils/BamException_p.h"
+#include "internal/sam/SamFormatParser_p.h"
+#include "internal/sam/SamFormatPrinter_p.h"
+#include "internal/sam/SamHeaderValidator_p.h"
 using namespace BamTools;
 using namespace BamTools::Internal;
 using namespace std;

@@ -7,7 +7,7 @@
 // Provides methods for operating on a SamProgram record "chain"
 // ***************************************************************************
 
-#include "api/SamProgramChain.h"
+#include "SamProgramChain.h"
 using namespace BamTools;
 
 #include <algorithm>

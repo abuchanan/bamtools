@@ -7,8 +7,8 @@
 // Provides low-level implementation of TCP I/O for all UNIX-like systems
 // ***************************************************************************
 
-#include "api/internal/io/TcpSocketEngine_p.h"
-#include "api/internal/io/NetUnix_p.h"
+#include "../../internal/io/TcpSocketEngine_p.h"
+#include "../../internal/io/NetUnix_p.h"
 using namespace BamTools;
 using namespace BamTools::Internal;
 

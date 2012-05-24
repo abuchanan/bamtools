@@ -7,7 +7,7 @@
 // Provides direct read/write access to the SAM sequence data fields.
 // ***************************************************************************
 
-#include "api/SamSequence.h"
+#include "SamSequence.h"
 #include <sstream>
 using namespace BamTools;
 using namespace std;

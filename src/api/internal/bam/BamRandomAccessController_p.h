@@ -20,8 +20,8 @@
 //
 // We mean it.
 
-#include "api/BamAux.h"
-#include "api/BamIndex.h"
+#include "../../BamAux.h"
+#include "../../BamIndex.h"
 
 namespace BamTools {
 

@@ -7,11 +7,11 @@
 // Provides the basic functionality for handling BAM headers.
 // ***************************************************************************
 
-#include "api/BamAux.h"
-#include "api/BamConstants.h"
-#include "api/internal/bam/BamHeader_p.h"
-#include "api/internal/io/BgzfStream_p.h"
-#include "api/internal/utils/BamException_p.h"
+#include "../../BamAux.h"
+#include "../../BamConstants.h"
+#include "../../internal/bam/BamHeader_p.h"
+#include "../../internal/io/BgzfStream_p.h"
+#include "../../internal/utils/BamException_p.h"
 using namespace BamTools;
 using namespace BamTools::Internal;
 

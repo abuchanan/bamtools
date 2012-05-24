@@ -7,7 +7,7 @@
 // Provides direct read/write access to the SAM header program records.
 // ***************************************************************************
 
-#include "api/SamProgram.h"
+#include "SamProgram.h"
 using namespace BamTools;
 using namespace std;
 

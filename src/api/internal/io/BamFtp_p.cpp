@@ -7,9 +7,9 @@
 // Provides reading/writing of BAM files on FTP server
 // ***************************************************************************
 
-#include "api/BamAux.h"
-#include "api/internal/io/BamFtp_p.h"
-#include "api/internal/io/TcpSocket_p.h"
+#include "../../BamAux.h"
+#include "../../internal/io/BamFtp_p.h"
+#include "../../internal/io/TcpSocket_p.h"
 using namespace BamTools;
 using namespace BamTools::Internal;
 

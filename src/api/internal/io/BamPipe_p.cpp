@@ -7,7 +7,7 @@
 // Provides BAM pipe-specific IO behavior
 // ***************************************************************************
 
-#include "api/internal/io/BamPipe_p.h"
+#include "../../internal/io/BamPipe_p.h"
 using namespace BamTools;
 using namespace BamTools::Internal;
 

@@ -11,8 +11,8 @@
 //        are called as needed from the TcpSocketEngine_<X>.cpp files. Selection of the proper
 //        native method file should have been handled at build-time by CMake.
 
-#include "api/internal/io/HostInfo_p.h"
-#include "api/internal/io/TcpSocketEngine_p.h"
+#include "../../internal/io/HostInfo_p.h"
+#include "../../internal/io/TcpSocketEngine_p.h"
 
 using namespace BamTools;
 using namespace BamTools::Internal;

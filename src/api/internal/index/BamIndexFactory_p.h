@@ -10,7 +10,7 @@
 #ifndef BAMINDEX_FACTORY_P_H
 #define BAMINDEX_FACTORY_P_H
 
-#include "api/BamIndex.h"
+#include "../../BamIndex.h"
 #include <string>
 
 namespace BamTools {

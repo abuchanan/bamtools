@@ -7,11 +7,11 @@
 // Manages random access operations in a BAM file
 // **************************************************************************
 
-#include "api/BamIndex.h"
-#include "api/internal/bam/BamRandomAccessController_p.h"
-#include "api/internal/bam/BamReader_p.h"
-#include "api/internal/index/BamIndexFactory_p.h"
-#include "api/internal/utils/BamException_p.h"
+#include "../../BamIndex.h"
+#include "../../internal/bam/BamRandomAccessController_p.h"
+#include "../../internal/bam/BamReader_p.h"
+#include "../../internal/index/BamIndexFactory_p.h"
+#include "../../internal/utils/BamException_p.h"
 using namespace BamTools;
 using namespace BamTools::Internal;
 

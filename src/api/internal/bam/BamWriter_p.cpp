@@ -7,11 +7,11 @@
 // Provides the basic functionality for producing BAM files
 // ***************************************************************************
 
-#include "api/BamAlignment.h"
-#include "api/BamConstants.h"
-#include "api/IBamIODevice.h"
-#include "api/internal/bam/BamWriter_p.h"
-#include "api/internal/utils/BamException_p.h"
+#include "../../BamAlignment.h"
+#include "../../BamConstants.h"
+#include "../../IBamIODevice.h"
+#include "../../internal/bam/BamWriter_p.h"
+#include "../../internal/utils/BamException_p.h"
 using namespace BamTools;
 using namespace BamTools::Internal;
 

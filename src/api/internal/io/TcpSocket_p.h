@@ -20,9 +20,9 @@
 //
 // We mean it.
 
-#include "api/IBamIODevice.h"
-#include "api/internal/io/HostInfo_p.h"
-#include "api/internal/io/RollingBuffer_p.h"
+#include "../../IBamIODevice.h"
+#include "../../internal/io/HostInfo_p.h"
+#include "../../internal/io/RollingBuffer_p.h"
 #include <string>
 
 namespace BamTools {

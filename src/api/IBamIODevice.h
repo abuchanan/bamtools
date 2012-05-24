@@ -18,7 +18,7 @@
 #ifndef IBAMIODEVICE_H
 #define IBAMIODEVICE_H
 
-#include "api/api_global.h"
+#include "api_global.h"
 #include <cstdio>
 #include <string>
 

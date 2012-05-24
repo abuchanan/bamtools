@@ -10,7 +10,7 @@
 #ifndef API_GLOBAL_H
 #define API_GLOBAL_H
 
-#include "shared/bamtools_global.h"
+#include "../shared/bamtools_global.h"
 
 #ifdef BAMTOOLS_API_LIBRARY
 #  define API_EXPORT BAMTOOLS_LIBRARY_EXPORT

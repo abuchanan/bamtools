@@ -7,11 +7,11 @@
 // Creates built-in concrete implementations of IBamIODevices
 // ***************************************************************************
 
-#include "api/internal/io/BamDeviceFactory_p.h"
-#include "api/internal/io/BamFile_p.h"
-#include "api/internal/io/BamFtp_p.h"
-#include "api/internal/io/BamHttp_p.h"
-#include "api/internal/io/BamPipe_p.h"
+#include "../../internal/io/BamDeviceFactory_p.h"
+#include "../../internal/io/BamFile_p.h"
+#include "../../internal/io/BamFtp_p.h"
+#include "../../internal/io/BamHttp_p.h"
+#include "../../internal/io/BamPipe_p.h"
 using namespace BamTools;
 using namespace BamTools::Internal;
 

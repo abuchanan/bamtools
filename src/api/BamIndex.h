@@ -10,8 +10,8 @@
 #ifndef BAM_INDEX_H
 #define BAM_INDEX_H
 
-#include "api/api_global.h"
-#include "api/BamAux.h"
+#include "api_global.h"
+#include "BamAux.h"
 #include <string>
 
 namespace BamTools {

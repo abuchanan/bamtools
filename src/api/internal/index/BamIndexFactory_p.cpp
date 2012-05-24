@@ -7,9 +7,9 @@
 // Provides interface for generating BamIndex implementations
 // ***************************************************************************
 
-#include "api/internal/index/BamIndexFactory_p.h"
-#include "api/internal/index/BamStandardIndex_p.h"
-#include "api/internal/index/BamToolsIndex_p.h"
+#include "../../internal/index/BamIndexFactory_p.h"
+#include "../../internal/index/BamStandardIndex_p.h"
+#include "../../internal/index/BamToolsIndex_p.h"
 using namespace BamTools;
 using namespace BamTools::Internal;
 using namespace std;

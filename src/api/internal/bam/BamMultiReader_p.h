@@ -20,9 +20,9 @@
 //
 // We mean it.
 
-#include "api/SamHeader.h"
-#include "api/BamMultiReader.h"
-#include "api/internal/bam/BamMultiMerger_p.h"
+#include "../../SamHeader.h"
+#include "../../BamMultiReader.h"
+#include "../../internal/bam/BamMultiMerger_p.h"
 #include <string>
 #include <vector>
 

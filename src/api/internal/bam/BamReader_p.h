@@ -20,13 +20,13 @@
 //
 // We mean it.
 
-#include "api/BamAlignment.h"
-#include "api/BamIndex.h"
-#include "api/BamReader.h"
-#include "api/SamHeader.h"
-#include "api/internal/bam/BamHeader_p.h"
-#include "api/internal/bam/BamRandomAccessController_p.h"
-#include "api/internal/io/BgzfStream_p.h"
+#include "../../BamAlignment.h"
+#include "../../BamIndex.h"
+#include "../../BamReader.h"
+#include "../../SamHeader.h"
+#include "../../internal/bam/BamHeader_p.h"
+#include "../../internal/bam/BamRandomAccessController_p.h"
+#include "../../internal/io/BgzfStream_p.h"
 #include <string>
 
 namespace BamTools {

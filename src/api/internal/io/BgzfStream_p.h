@@ -22,9 +22,9 @@
 //
 // We mean it.
 
-#include "api/api_global.h"
-#include "api/BamAux.h"
-#include "api/IBamIODevice.h"
+#include "../../api_global.h"
+#include "../../BamAux.h"
+#include "../../IBamIODevice.h"
 #include <string>
 
 namespace BamTools {
